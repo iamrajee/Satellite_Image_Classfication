@@ -1,6 +1,6 @@
 # Satellite Image Classfication for eye in sky competion, Inter IIT Tech meet 2019, IIT BOMBAY 
 
-Task was to do train a model for satellite image classification of various class using just 14 images.
+Task was to train a model for satellite image classification of various class using just 14 images.
 1) output_images: output from our model
 2) Report/Report.pdf
 3) ReadMe.md
