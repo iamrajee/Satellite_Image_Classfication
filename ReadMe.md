@@ -8,3 +8,6 @@ Task was to train a model for satellite image classification of various class us
 
 ![](overview.png)
 ![](predictedoutput.png)
+![](Evalution.png)
+![](optimizers.png)
+![](team.png)
